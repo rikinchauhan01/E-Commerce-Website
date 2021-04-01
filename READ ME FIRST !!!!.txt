@@ -1,0 +1,15 @@
+LOGIN DETAILS
+
+Username: rikin01@gmail.com
+Password: code0
+
+Username: vidit01@gmail.com
+Password: vidit
+
+Username: raj01@gmail.com
+Password: raj
+
+DON'T FORGET TO CREATE A DATABASE NAMING "ecomm" AND IMPORT THE SQL FILE TO RUN.
+WITHOUT DATABASE THE PROJECT WON'T RUN.
+
+** DATABASE FILE IS INSIDE "database" FOLDER in "ecommerce" FOLDER **
