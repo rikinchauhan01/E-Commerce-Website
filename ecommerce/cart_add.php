@@ -1,6 +1,8 @@
 <?php
 	include 'includes/session.php';
 
+	// test
+
 	$conn = $pdo->open();
 
 	$output = array('error'=>false);
